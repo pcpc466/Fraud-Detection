@@ -1,5 +1,5 @@
 # 💳 Credit Card Fraud Detection
-Kaggle Credit Card Fraud Dataset — End-to-End Data Analytics & Machine Learning Project
+Credit Card Fraud Dataset — End-to-End Data Analytics & Machine Learning Project
 
 ---
 
